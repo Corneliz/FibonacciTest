@@ -1,6 +1,6 @@
 # Test
 ## Steps 
-Clone this project from  ``
+Clone this project from  `https://github.com/Corneliz/FibonacciTest.git`
 Open the console and go to the root folder of the project
 Run `npm install`
 
