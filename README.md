@@ -13,4 +13,4 @@ Run `node index.js` for a dev server. Navigate to `http://localhost:3000/`.
 Run `jasmine spec/FibonacciSpec.js` to execute the unit test.
 
 ## Endpoints
-Call this URL and add as a parameter the number that you want calculate `http://localhost:3000/{{number}}`
+Call this URL and add as a parameter the number that you want calculate `http://localhost:3000/{number}`
